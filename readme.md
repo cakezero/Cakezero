@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Elom Bright
 
-- 👀 I’m interested in Programming python, C, C++
+- 👀 I’m interested in Programming Python, C, C++
 
 - 🌱 I’m currently learning Python
 
