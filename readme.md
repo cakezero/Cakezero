@@ -1,10 +1,18 @@
 - 👋 Hi, I’m Elom Bright
+
 - 👀 I’m interested in Programming python, C, C++
+
 - 🌱 I’m currently learning Python
+
 - Thinking of Moving to Web3 anytime soon, That is after I learn the above Languages, But might start very soon
+
 - 💞️ I’m looking to collaborate on a project of mine but that'll have to wait :) 
+
 - 📫 How to reach me twitter -> @spar_kex or email me -> sareahj.com@gmail.com
+
 - That's all!! :)
+
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=cakezero)](https://github.com/ryo-ma/github-profile-trophy)
 <!---
