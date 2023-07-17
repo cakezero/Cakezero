@@ -2,9 +2,9 @@
 
 - 👀 I’m interested in Programming Python, C, C++ and Solidity
 
-- 🌱 I’m currently learning Python, C, C++
+- 🌱 I’m currently learning Python and Solidity
 
-- Thinking of Moving to Web3 anytime soon, That is after I learn the above Languages, But might start very soon
+- Going to build the next ground breaking FinTech Platform...
 
 - 💞️ I’m looking to collaborate on a project of mine but that'll have to wait :) 
 
