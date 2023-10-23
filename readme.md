@@ -2,11 +2,11 @@
 
 - 👀 I’m interested in Programming Python, C, C++ and Solidity
 
-- 🌱 I’m currently learning Python and Solidity
+- 🌱 I’m currently learning Python, JavaScript and Solidity
 
-- Going to build the next ground breaking FinTech Platform...
+- Going to build the next ground breaking FinTech Platform... and an EdTech
 
-- 💞️ I’m looking to collaborate on a project of mine but that'll have to wait :) 
+- 💞️ I’m looking to collaborate on a project of mine but that'll have to wait :)
 
 - 📫 How to reach me -> sareahj.com@gmail.com
 
