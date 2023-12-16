@@ -6,11 +6,11 @@
 
 - Building an EdTech
 
-- 💞️ I’m looking to collaborate on a project of mine but that'll have to wait :)
+- 💞️ I’m looking to collaborate on a project of mine but that'll have to wait 🥲
 
 - 📫 How to reach me -> sareahj.com@gmail.com
 
-- That's all!! :)
+- That's all!! 🙂
 
 
 
