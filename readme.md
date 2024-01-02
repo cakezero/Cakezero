@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Elom Bright
 
-- 👀 I’m interested in Programming Python, C, C++ and Solidity
+- 👀 I’m interested in Programming Python, C++ and Solidity
 
 - 🌱 I’m currently learning Python, JavaScript and Solidity
 
