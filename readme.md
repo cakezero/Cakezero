@@ -6,7 +6,7 @@
 Here are some ideas to get you started: -->
 - 🌱 I’m currently learning **JavaScript**, **Python** and **Solidity**
 - ⚡ Looking forward to learning **Go** and **Typescript**
-- 👨🏾‍🍳 @VariableHQ
+- 👨🏾‍🍳 @[VariableHQ](https://github.com/variableHQ)
   
 
 [![cakezero's GitHub stats](https://github-readme-stats.vercel.app/api?username=cakezero&show_icons=true&locale=en&count_private=true&count_public=true)](https://github.com/cakezero/github-readme-stats)
