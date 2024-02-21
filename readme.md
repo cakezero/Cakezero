@@ -11,6 +11,8 @@ Here are some ideas to get you started: -->
 
 [![cakezero's GitHub stats](https://github-readme-stats.vercel.app/api?username=cakezero&show_icons=true&locale=en&count_private=true&count_public=true)](https://github.com/cakezero/github-readme-stats)
 
+[![wakatime](https://wakatime.com/badge/user/0ff88b28-7a04-4e0a-afa9-7851e4ae7b3f.svg)](https://wakatime.com/@0ff88b28-7a04-4e0a-afa9-7851e4ae7b3f)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cakezero&langs_count=10&layout=compact)](https://github.com/cakezero/github-readme-stats)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cakezero&" alt="cakezero" /></p>
