@@ -8,10 +8,10 @@ Here are some ideas to get you started: -->
 - ⚡ Looking forward to learning **Go** and **Typescript**
 - 👨🏾‍🍳 @[VariableHQ](https://github.com/variableHQ)
   
+[![wakatime](https://wakatime.com/badge/user/d6ca78a9-04ec-4d62-a0e7-d8c9f0f6c31b.svg)](https://wakatime.com/@d6ca78a9-04ec-4d62-a0e7-d8c9f0f6c31b)
 
 [![cakezero's GitHub stats](https://github-readme-stats.vercel.app/api?username=cakezero&show_icons=true&locale=en&count_private=true&count_public=true)](https://github.com/cakezero/github-readme-stats)
 
-[![wakatime](https://wakatime.com/badge/user/0ff88b28-7a04-4e0a-afa9-7851e4ae7b3f.svg)](https://wakatime.com/@0ff88b28-7a04-4e0a-afa9-7851e4ae7b3f)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cakezero&langs_count=10&layout=compact)](https://github.com/cakezero/github-readme-stats)
 
