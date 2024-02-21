@@ -1,4 +1,4 @@
-### Hello, earthling 👋
+### Hello, Fellow Earthling 👋
 
 <!--
 **cakezero/cakezero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -8,6 +8,8 @@ Here are some ideas to get you started: -->
 - ⚡ Looking forward to learning **Go** and **Typescript**
 - 👨🏾‍🍳 @[VariableHQ](https://github.com/variableHQ)
   
+
+
 
 [![cakezero's GitHub stats](https://github-readme-stats.vercel.app/api?username=cakezero&show_icons=true&locale=en&count_private=true&count_public=true)](https://github.com/cakezero/github-readme-stats)
 
