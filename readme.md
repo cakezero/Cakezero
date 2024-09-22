@@ -6,7 +6,7 @@
 Here are some ideas to get you started: -->
 - 🌱 I’m currently learning **JavaScript**, **Python** and **Solidity**
 - ⚡ Looking forward to learning **Go** and **Typescript**
-- 👨🏾‍🍳 @[VariableHQ](https://github.com/variableHQ)
+- 👨🏾‍🍳 @[Norverse](https://github.com/Norverse)
   
 
 
