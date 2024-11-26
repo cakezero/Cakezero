@@ -4,9 +4,9 @@
 **cakezero/cakezero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started: -->
-- 🌱 I’m currently learning **JavaScript**, **Python** and **Solidity**
-- ⚡ Looking forward to learning **Go** and **Typescript**
-- 👨🏾‍🍳 @[Norverse](https://github.com/Norverse)
+- 🌱 I’m currently learning **Typescript**, **Rust** and **Solidity**
+- ⚡ Looking forward to learning **Go**
+- 👨🏾‍🍳 @[EraHq](https://github.com/EraHQ)
   
 
 
