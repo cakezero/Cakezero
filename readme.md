@@ -6,7 +6,7 @@
 Here are some ideas to get you started: -->
 - 🌱 I’m currently learning **Typescript**, **Rust** and **Solidity**
 - ⚡ Looking forward to learning **Go**
-- 👨🏾‍🍳 @[EraHq](https://github.com/EraHQ)
+- 👨🏾‍🍳 @[Era X](https://github.com/EraHQ)
   
 
 
