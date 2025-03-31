@@ -6,7 +6,7 @@
 Here are some ideas to get you started: -->
 - 🌱 I’m currently learning **Typescript**, **Rust** and **Solidity**
 - ⚡ Looking forward to learning **Go**
-- 👨🏾‍🍳 @[Shitty Inc.](https://github.com/ShittyDevz)
+- 👨🏾‍🍳 @[ZERO LABS](https://github.com/Z3RO-LABS)
   
 
 
