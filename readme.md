@@ -6,7 +6,7 @@
 Here are some ideas to get you started: -->
 - 🌱 I’m currently learning **Typescript**, **Go** and **Solidity**
 - ⚡ Looking forward to learning **Rust**
-- 👨🏾‍🍳 at [Kenolabs](https://github.com/kenolabs)
+<!-- - 👨🏾‍🍳 at [Kenolabs](https://github.com/kenolabs) -->
 
 
 
